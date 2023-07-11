@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+        "experimentalDecorators": true,
+        "target": "es2022",
+        "module": "commonjs",
+        "outDir": "./dist",
+        "rootDir": "./",
+        "baseUrl": "./",
+        "paths": {},
+        "esModuleInterop": true, /* Enables emit interoperability between CommonJS and ES Modules via creation of namespace objects for all imports. Implies 'allowSyntheticDefaultImports'. */
+        "sourceMap": true, /* Generates corresponding '.map' file. A source map is a file that maps the transpiled JavaScript code back to its original TypeScript source code. It is useful during development and debugging, as it allows the browser or debugger to associate errors, log messages, and stack traces with the original TypeScript code rather than the transpiled JavaScript code. */
+        "forceConsistentCasingInFileNames": true /* Disallow inconsistently-cased references to the same file. */,
+    }
+}
